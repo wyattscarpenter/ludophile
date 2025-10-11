@@ -1,0 +1,3 @@
+LudophileApplicationPackage (process 1200) exited with code 1.
+Run project via generated repository in bin/en/LudophileProjectApplicationConfig
+Press any key to close this window...
