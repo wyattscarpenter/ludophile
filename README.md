@@ -43,8 +43,10 @@ Studio3692 years ago
 Reply
 ```
 
-Sadly, yes, nqh is right, in the original Ludophile the shortcuts (lnk files) don't work, and keep trying to take you to the Documents folder instead. So, I decided to fix them, because git supports symlinks (if your operating system does) and Jack Lance isn't around anymore to fix it himself. RIP @[JackLance](https://github.com/JackLance/).
+From that website, you can download a zip, which file has a sha1hash of TODO and a git hash of TODO. I've unzipped the zip for you already, no winrar needed! It's the Ludophile/ folder now.
+
+Sadly, yes, nqh in the comments above is right: in the original Ludophile the shortcuts (lnk files) don't work, and keep trying to take you to the Documents folder instead. So, I decided to fix them, because git supports symlinks (if your operating system does) and Jack Lance isn't around anymore to fix it himself. RIP @[JackLance](https://github.com/JackLance/).
 
 I think it's a pretty good game.
 
-Without further ado, enter the Ludophile folder (I've unzipped the zip for you already, no winrar needed!) and click on ludophile.exe to play.
+Without further ado, enter the Ludophile folder and click on ludophile.exe to play.
