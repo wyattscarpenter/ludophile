@@ -43,7 +43,7 @@ Studio3692 years ago
 Reply
 ```
 
-From that website, you can download a zip, which file has a sha1hash of TODO and a git hash of TODO. I've unzipped the zip for you already, no winrar needed! It's the Ludophile/ folder now.
+From that website, you can download a zip, Ludophile.zip which file has a `sha1sum` hash of 24a3c12f6df946a56d86f338a5f5d08f5f2d6b37, a `sha256sum` hash of 82d0a7107c92eb5f81f69c0f24c80b196979b82518a375647acb8d8304a9a5b1, and a `git hash-object` hash of 3658398256828ba0256567d4979aefcdcc857d85. This zip contains one folder, Ludophile, which I have extracted with 7zip and placed in this git repo. I've unzipped the zip for you already, so no winrar is needed!
 
 Sadly, yes, nqh in the comments above is right: in the original Ludophile the shortcuts (lnk files) don't work, and keep trying to take you to the Documents folder instead. I don't *think* this is supposed to be part of the puzzle. I think Jack Lance made a bunch of shortcuts in Windows and assumed they would be relative links that would work if he sent the whole folder structure to someone else. (A classic mistake that we have all made at one time or another.) So, I decided to fix them, because git supports symlinks (if your operating system does) and Jack Lance isn't around anymore to fix it himself. RIP @[JackLance](https://github.com/JackLance/).
 
