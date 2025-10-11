@@ -1,7 +1,9 @@
 # ludophile
-A preservation and light "remaster" of Jack Lance's Ludophile
+A preservation and light "remaster" of Jack Lance's Ludophile.
 
 This readme is by me, not Jack Lance, and is original to my preservation project.
+
+The preserved project is still Jack Lance's intellectual property, and is presumably proprietary and now belongs, I suppose, to his next of kin.
 
 At the moment, 2025-10-11, you can visit https://jacklance.itch.io/ludophile and see a page that is more or less the following:
 
@@ -41,7 +43,7 @@ Studio3692 years ago
 Reply
 ```
 
-Sadly, yes, nqh is right, in the original Ludophile the shortcuts (lnk files) don't work, and keep trying to take you to the Documents folder instead. So, I decided to fix them, because git supports symlinks (if your operating system does) and Jack Lance isn't around anymore to fix it himself.
+Sadly, yes, nqh is right, in the original Ludophile the shortcuts (lnk files) don't work, and keep trying to take you to the Documents folder instead. So, I decided to fix them, because git supports symlinks (if your operating system does) and Jack Lance isn't around anymore to fix it himself. RIP @JackLance.
 
 I think it's a pretty good game.
 
