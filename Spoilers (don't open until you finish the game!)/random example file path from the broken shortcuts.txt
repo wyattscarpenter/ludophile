@@ -1,1 +1,12 @@
 C:\Users\jackl\Documents\Ludophile\Ludophile\Release\Project_build\Ludophile\bin\en\LudophileProjectApplicationConfig\.archive\archive_2020-9-20\jma_306helpmepleasesomebodyhelp2392933\Users\jacklance\Local\Library\Go\Dir\roomrow2xcol9a
+
+Examining the lnk files, they seem to come in two formats, as exemplified by the lnkinfo|grep path output below
+
+	Contains a relative path string
+	Local path			: C:\Users\jackl\Documents\Ludophile\Filadelphia\Library
+	Relative path			: .\Library
+	Contains a relative path string
+	Local path			: C:\Users\jackl\Documents\Ludophile\Ludophile\Release\Project_build\Ludophile\bin\en\LudophileProjectApplicationConfig\.archive\archive_2020-12-13\jma_306helpmepleasesomeone2392933\Users\jacklance\Local\Library\Talk to Fil
+
+So I guess Jack worked on this game before ensconcing it in the big wrapper, and then did some touchups on the dialogue.
+
