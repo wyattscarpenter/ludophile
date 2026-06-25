@@ -7,7 +7,7 @@ The preserved project is still Jack Lance's intellectual property, and is presum
 
 I think it's a pretty good game.
 
-TODO: This remaster is not yet finished. Once it is, I will try to improve the instructions about this project's zip file.
+TODO: This remaster is not yet finished. Once it is, I will try to improve the instructions about this project's zip file. I think almost certainly you will have to enable symlinks on Windows, and probably have to use the -snld flag if you're using 7zip.
 
 ## How to play
 
