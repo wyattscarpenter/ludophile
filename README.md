@@ -3,8 +3,19 @@ A preservation and light "remaster" of Jack Lance's Ludophile.
 
 This readme is by me, not Jack Lance, and is original to my preservation project.
 
-The preserved project is still Jack Lance's intellectual property, and is presumably proprietary and now belongs, I suppose, to his next of kin.
+The preserved project is still Jack Lance's intellectual property, and is presumably proprietary and now belongs, I suppose, to his next of kin. There are also several drawings in this game of characters that do not belong to Jack Lance.
 
+I think it's a pretty good game.
+
+## How to play
+
+To play this game, you must first download it. That means you either need to `git clone` it or download my zip.
+
+For this git project to work out for you, you're going to need a system that supports symlinks and long paths. This means, if you use Windows, you should look into [enabling long paths](https://gist.github.com/leodutra/a25bc1f51e8779943df0a95d5a4839d1) and [symlinks](https://gist.github.com/huenisys/1efb64e57c37cfab7054c65702588fce) — both for the underlying operating system and also for Git. Alteratively, you could just [download my zip](https://github.com/wyattscarpenter/ludophile/archive/refs/heads/master.zip) onto your computer and see what happens. Probably to extract that zip you will need winrar or 7zip, unless the Windows native zip decompressor has improved lately. Also, the symlinks may not work if you do that, who knows. 
+
+Without further ado, enter the Ludophile folder and click on ludophile.exe to play.
+
+## Preservation information
 At the moment, 2025-10-11, you can visit https://jacklance.itch.io/ludophile and see a page that is more or less the following:
 
 ```
@@ -43,12 +54,8 @@ Studio3692 years ago
 Reply
 ```
 
-From that website, you can download a zip, Ludophile.zip, which has a `sha1sum` hash of 24a3c12f6df946a56d86f338a5f5d08f5f2d6b37, a `sha256sum` hash of 82d0a7107c92eb5f81f69c0f24c80b196979b82518a375647acb8d8304a9a5b1, and a `git hash-object` hash of 3658398256828ba0256567d4979aefcdcc857d85. This zip contains one folder, Ludophile, which I have extracted with 7zip and placed in this git repo. I've unzipped the zip for you already, so no winrar is needed! The dirhash of the unzipped Ludophile folder, which I computed with `uvx dirhash Ludophile/` (the dirhash 0.5.0 from https://pypi.org/project/dirhash/, with its default configuration), is 4ab1f39a608369fd4a65076ab2a4495a.
+From that website, you can download a zip, Ludophile.zip, which has a `sha1sum` hash of 24a3c12f6df946a56d86f338a5f5d08f5f2d6b37, a `sha256sum` hash of 82d0a7107c92eb5f81f69c0f24c80b196979b82518a375647acb8d8304a9a5b1, and a `git hash-object` hash of 3658398256828ba0256567d4979aefcdcc857d85. (I think Git is going to change its hash at some point in the future so that number might not be the same when you check it.) This zip contains one folder, Ludophile, which I have extracted with 7zip and placed in this git repo. I've unzipped the zip for you already, so no winrar is needed! The dirhash of the unzipped Ludophile folder, which I computed with `uvx dirhash Ludophile/` (the dirhash 0.5.0 from https://pypi.org/project/dirhash/, with its default configuration), is 4ab1f39a608369fd4a65076ab2a4495a.
 
 Sadly, yes, nqh in the comments above is right: in the original Ludophile the shortcuts (lnk files) don't work, and keep trying to take you to Jack Lance's Documents folder instead. I don't *think* this is supposed to be part of the puzzle. I think Jack Lance made a bunch of shortcuts in Windows and assumed they would be relative links that would work if he sent the whole folder structure to someone else. (A classic mistake that we have all made at one time or another.) So, I decided to fix them, because git supports symlinks (if your operating system does) and Jack Lance isn't around anymore to fix it himself. RIP @[JackLance](https://github.com/JackLance/).
 
-For this git project to work out for you, you're going to need a system that supports symlinks and long paths. This means, if you use Windows, you should look into [enabling long paths](https://gist.github.com/leodutra/a25bc1f51e8779943df0a95d5a4839d1) and [symlinks](https://gist.github.com/huenisys/1efb64e57c37cfab7054c65702588fce) — both for the underlying operating system and also for Git. Alteratively, you could just [download my zip](https://github.com/wyattscarpenter/ludophile/archive/refs/heads/master.zip) onto your computer and see what happens. Probably to extract that zip you will need winrar or 7zip, unless the Windows native zip decompressor has improved lately. Also, the symlinks may not work if you do that, who knows. Please do not confuse the zip file discussed in this paragraph with the Ludophile.zip I originally downloaded from itch.io; they will not match precisely.
-
-I think it's a pretty good game.
-
-Without further ado, enter the Ludophile folder and click on ludophile.exe to play.
+Please do not confuse the zip file discussed in the "how to play" section with the Ludophile.zip I originally downloaded from itch.io; they will not match precisely.
