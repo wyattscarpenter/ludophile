@@ -7,6 +7,8 @@ The preserved project is still Jack Lance's intellectual property, and is presum
 
 I think it's a pretty good game.
 
+TODO: This remaster is not yet finished. Once it is, I will try to improve the instructions about this project's zip file.
+
 ## How to play
 
 To play this game, you must first download it. That means you either need to `git clone` it or download my zip.
